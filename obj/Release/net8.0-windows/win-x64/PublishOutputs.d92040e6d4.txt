@@ -1,0 +1,13 @@
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\PVZRHTools.exe
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\PVZRHTools.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\PVZRHTools.deps.json
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\PVZRHTools.runtimeconfig.json
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\CommunityToolkit.Mvvm.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\FastHotKeyForWPF.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\HandyControl.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\Microsoft.Extensions.DependencyInjection.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\System.CodeDom.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\System.Management.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\ToolModData.dll
+D:\Web\二创\PVZRHTools修改器（3.1.1版本）\PVZRHTools\publish\ToolModData.pdb
