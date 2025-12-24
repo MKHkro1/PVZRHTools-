@@ -51,6 +51,7 @@
     <s:String x:Key="Tab1.Page4.Shooting4.Tooltip">Эта настройка только для развлечения. Не сообщайте о багах здесь. Это известные баги, и их невозможно исправить.</s:String>
     <s:String x:Key="Tab1.Page4.ScaredyDream">Мечта Трусогриба</s:String>
     <s:String x:Key="Tab1.Page5.NoIceRoad">Без лед. дорог</s:String>
+    <s:String x:Key="Tab1.Page5.DisableIceEffect">Откл. эффект льда</s:String>
     <s:String x:Key="Tab1.Page5.ItemExistForever">Вещи вечны</s:String>
     <s:String x:Key="Tab1.Page5.CardNoInit">Карты вечны</s:String>
     <s:String x:Key="Tab1.Page5.JackboxNotExplode">Шут не взрывается</s:String>

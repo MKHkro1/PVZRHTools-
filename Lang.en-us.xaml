@@ -52,6 +52,7 @@
     <s:String x:Key="Tab1.Page4.Shooting4.Tooltip">This setting is just for fun. Don't report any bugs here. They're known bugs and there's no way to fix.</s:String>
     <s:String x:Key="Tab1.Page4.ScaredyDream">ScaredyDream</s:String>
     <s:String x:Key="Tab1.Page5.NoIceRoad">NoIceRoad</s:String>
+    <s:String x:Key="Tab1.Page5.DisableIceEffect">DisableIceEffect</s:String>
     <s:String x:Key="Tab1.Page5.ItemExistForever">ItemExistForever</s:String>
     <s:String x:Key="Tab1.Page5.CardNoInit">CardNoInit</s:String>
     <s:String x:Key="Tab1.Page5.JackboxNotExplode">JackboxNotExplode</s:String>

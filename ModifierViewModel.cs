@@ -278,6 +278,7 @@ public partial class ModifierViewModel : ObservableObject
         NoFail = s.NoFail;
         NoHole = s.NoHole;
         NoIceRoad = s.NoIceRoad;
+        DisableIceEffect = s.DisableIceEffect;
         PlantingNoCD = s.PlantingNoCD;
         PlantType = s.PlantType;
         PresentFastOpen = s.PresentFastOpen;
@@ -719,6 +720,7 @@ public partial class ModifierViewModel : ObservableObject
             NoFail = NoFail,
             NoHole = NoHole,
             NoIceRoad = NoIceRoad,
+            DisableIceEffect = DisableIceEffect,
             PlantingNoCD = PlantingNoCD,
             PlantType = PlantType,
             PresentFastOpen = PresentFastOpen,
@@ -856,6 +858,7 @@ public partial class ModifierViewModel : ObservableObject
                 MineNoCD = MineNoCD,
                 NoHole = NoHole,
                 NoIceRoad = NoIceRoad,
+                DisableIceEffect = DisableIceEffect,
                 PlantingNoCD = PlantingNoCD,
                 PresentFastOpen = PresentFastOpen,
                 SuperPresent = SuperPresent,
@@ -1244,6 +1247,11 @@ public partial class ModifierViewModel : ObservableObject
         App.DataSync.Value.SendData(new BasicProperties { NoIceRoad = value });
     }
 
+    partial void OnDisableIceEffectChanged(bool value)
+    {
+        App.DataSync.Value.SendData(new BasicProperties { DisableIceEffect = value });
+    }
+
     partial void OnPlantingNoCDChanged(bool value)
     {
         App.DataSync.Value.SendData(new BasicProperties { PlantingNoCD = value });
@@ -1594,6 +1602,8 @@ public partial class ModifierViewModel : ObservableObject
     [ObservableProperty] public partial bool NoHole { get; set; }
 
     [ObservableProperty] public partial bool NoIceRoad { get; set; }
+
+    [ObservableProperty] public partial bool DisableIceEffect { get; set; }
 
     [ObservableProperty] public partial bool PlantingNoCD { get; set; }
 

@@ -53,6 +53,7 @@
     <s:String x:Key="Tab1.Page4.Shooting4.Tooltip">请勿反馈此栏中修改条目引发的任何bug，因为这些bug均为已知兼容冲突且无任何办法修复</s:String>
     <s:String x:Key="Tab1.Page4.ScaredyDream">胆小菇之梦</s:String>
     <s:String x:Key="Tab1.Page5.NoIceRoad">不生成冰道</s:String>
+    <s:String x:Key="Tab1.Page5.DisableIceEffect">取消冰冻特效</s:String>
     <s:String x:Key="Tab1.Page5.ItemExistForever">物品不消失</s:String>
     <s:String x:Key="Tab1.Page5.CardNoInit">卡槽无初始CD</s:String>
     <s:String x:Key="Tab1.Page5.JackboxNotExplode">小丑盒子不爆</s:String>
