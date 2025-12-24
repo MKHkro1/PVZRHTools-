@@ -1,0 +1,14 @@
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\PVZRHTools.exe
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\PVZRHTools.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\PVZRHTools.deps.json
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\PVZRHTools.runtimeconfig.json
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\CommunityToolkit.Mvvm.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\FastHotKeyForWPF.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\HandyControl.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\Microsoft.Extensions.DependencyInjection.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\System.CodeDom.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\System.Management.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\runtimes\win\lib\net8.0\System.Management.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\ToolModData.dll
+D:\Web\二创\插件项目Code\PVZRHTools\PVZRHTools\publish\ToolModData.pdb

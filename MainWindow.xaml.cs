@@ -27,7 +27,7 @@ namespace PVZRHTools
         public MainWindow()
         {
             InitializeComponent();
-            Title = $"PVZ融合版修改器{ModifierVersion.GameVersion}-{ModifierVersion.Version} B站@听雨夜荷 制作";
+            Title = $"PVZ融合版修改器{ModifierVersion.GameVersion}-{ModifierVersion.Version} B站@梧萱梦汐X 制作";
             WindowTitle.Content = Title;
             Instance = this;
             ModifierSprite = new ModifierSprite();
